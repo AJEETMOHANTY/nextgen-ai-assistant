@@ -1,0 +1,1 @@
+# Instead of invoking the chatbot directly, we can also stream the response in chunks. This is useful for long responses, as it allows us to display the response as it is being generated, rather than waiting for the entire response to be generated before displaying it.                   
